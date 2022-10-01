@@ -66,6 +66,9 @@ namespace Chapter.Controllers
         {
             try
             {
+                Livro livroBuscado = _livroRepository.BuscarPorId(id);
+                if (livroBuscado == null)
+                    return NotFound();
                 _livroRepository.Atualizar(id, livro);
                 return StatusCode(204);
             }
@@ -80,6 +83,10 @@ namespace Chapter.Controllers
         {
             try
             {
+                Livro livro = _livroRepository.BuscarPorId(id);
+                if (livro == null)
+                    return NotFound();
+
                 _livroRepository.Deletar(id);
                 return StatusCode(204);
 

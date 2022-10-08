@@ -3,6 +3,7 @@
 API desenvolvida durante os Encontros Remotos, sob a mentoria do Prof. Luiz Carlos M. Lozano, aplicando os seguintes conceitos:
 - Padrão MVC
 - API Rest
+- Uso do CORS
 - Documentação utilizando Swagger
 
 

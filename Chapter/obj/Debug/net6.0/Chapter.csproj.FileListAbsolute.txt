@@ -57,3 +57,4 @@ C:\Users\User\OneDrive\Documentos\senai\ChapterAPI\Chapter\obj\Debug\net6.0\refi
 C:\Users\User\OneDrive\Documentos\senai\ChapterAPI\Chapter\obj\Debug\net6.0\Chapter.pdb
 C:\Users\User\OneDrive\Documentos\senai\ChapterAPI\Chapter\obj\Debug\net6.0\Chapter.genruntimeconfig.cache
 C:\Users\User\OneDrive\Documentos\senai\ChapterAPI\Chapter\obj\Debug\net6.0\ref\Chapter.dll
+C:\Users\User\OneDrive\Documentos\senai\ChapterAPI\Chapter\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

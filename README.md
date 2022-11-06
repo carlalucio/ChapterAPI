@@ -4,10 +4,13 @@ API desenvolvida durante os Encontros Remotos, sob a mentoria do Prof. Luiz Carl
 - Padrão MVC
 - API Rest
 - Uso do CORS
+- Uso do JWT Bearer para autenticação
 - Documentação utilizando Swagger
 
 
 ## Features
+- Cadastrar Usuário
+- Fazer Login
 - Listar todos os livros cadastrados
 - Buscar um Livro por Id
 - Atualizar um Livro
